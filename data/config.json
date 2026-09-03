@@ -1,0 +1,88 @@
+{
+  "campaignTitle": "SPIN & WIN",
+  "campaignSubtitle": "Your chance to win exciting rewards!",
+  "supportingLine": "Enter your details and spin the wheel to discover your reward.",
+  "ctaText": "START SPINNING",
+  "spinInstruction": "Tap SPIN NOW and see what you win!",
+  "prizes": [
+    {
+      "id": "kettle",
+      "name": "KETTLE",
+      "shortLabel": "KETTLE",
+      "probability": 10,
+      "color": "#0d9488",
+      "textColor": "#ffffff",
+      "accentColor": "#14b8a6",
+      "icon": "kettle",
+      "isWin": true,
+      "congratsHeader": "CONGRATULATIONS! 🎉",
+      "instruction": "Please show this screen to your MR to claim your reward."
+    },
+    {
+      "id": "umbrella",
+      "name": "UMBRELLA",
+      "shortLabel": "UMBRELLA",
+      "probability": 15,
+      "color": "#0284c7",
+      "textColor": "#ffffff",
+      "accentColor": "#38bdf8",
+      "icon": "umbrella",
+      "isWin": true,
+      "congratsHeader": "CONGRATULATIONS! 🎉",
+      "instruction": "Please show this screen to your MR to claim your reward."
+    },
+    {
+      "id": "scissor",
+      "name": "SCISSOR",
+      "shortLabel": "SCISSOR",
+      "probability": 15,
+      "color": "#059669",
+      "textColor": "#ffffff",
+      "accentColor": "#34d399",
+      "icon": "scissors",
+      "isWin": true,
+      "congratsHeader": "CONGRATULATIONS! 🎉",
+      "instruction": "Please show this screen to your MR to claim your reward."
+    },
+    {
+      "id": "mystery_gift",
+      "name": "MYSTERY GIFT",
+      "shortLabel": "MYSTERY GIFT",
+      "probability": 15,
+      "color": "#6366f1",
+      "textColor": "#ffffff",
+      "accentColor": "#818cf8",
+      "icon": "gift",
+      "isWin": true,
+      "congratsHeader": "CONGRATULATIONS! 🎁",
+      "instruction": "Please show this screen to your MR to claim your reward."
+    },
+    {
+      "id": "product",
+      "name": "PRODUCT",
+      "shortLabel": "PRODUCT",
+      "probability": 25,
+      "color": "#0891b2",
+      "textColor": "#ffffff",
+      "accentColor": "#22d3ee",
+      "icon": "package",
+      "isWin": true,
+      "congratsHeader": "CONGRATULATIONS! 🎉",
+      "instruction": "Please show this screen to your MR to claim your reward."
+    },
+    {
+      "id": "blank",
+      "name": "BLANK",
+      "shortLabel": "BLANK",
+      "probability": 20,
+      "color": "#64748b",
+      "textColor": "#ffffff",
+      "accentColor": "#94a3b8",
+      "icon": "sparkles",
+      "isWin": false,
+      "congratsHeader": "BETTER LUCK NEXT TIME!",
+      "instruction": "Thank you for participating."
+    }
+  ],
+  "adminPassword": "meyer@123"
+}
